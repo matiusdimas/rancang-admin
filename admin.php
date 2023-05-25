@@ -26,7 +26,7 @@ $resultusulan = $conn->query($sqlusulan);
         <ul class="flex gap-3 font-semibold">
             <li><a href="admin_laporan.php" class="px-4 py-2 text-lg block" >Data Laporan</a></li>
             <li><a href="admin_usulan.php" class="px-4 py-2 text-lg block" >Data Usulan</a></li>
-            <li><a href="index.php" class="px-4 py-2 text-lg block" >Ke Page Karang Taruna</a></li>
+            <li><a href="index.php" class="px-4 py-2 text-lg block" >Ke Page Warga</a></li>
             <li><a href="logout.php" class="px-4 py-2 text-lg block" >Logout</a></li>
         </ul>
     </nav>
