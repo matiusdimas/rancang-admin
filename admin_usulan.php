@@ -44,7 +44,7 @@ $resultvalusulan= $conn->query($sqlvalusulan);
 <section class="h-screen overflow-auto">
     <!-- nav start -->
     <nav class="w-full flex bg-[#0A4D68] text-white items-center gap-16 py-4 sticky top-0">
-        <h1 class="text-2xl font-bold ml-10">Admin Karang Taruna</h1>
+        <h1 class="text-2xl font-bold ml-10">Admin Warga</h1>
         <ul class="flex gap-3 font-semibold">
             <li><a href="admin_laporan.php" class="px-4 py-2 text-lg block" >Data Laporan</a></li>
             <li><a href="admin_usulan.php" class="px-4 py-2 bg-red-500 text-lg block" >Data Usulan</a></li>
