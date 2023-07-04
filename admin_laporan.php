@@ -48,7 +48,7 @@ $resultvallaporan = $conn->query($sqlvallaporan);
       <ul class="flex gap-3 font-semibold">
         <li><a href="admin_laporan.php" class="px-4 py-2 bg-red-500 text-lg block">Data Laporan</a></li>
         <li><a href="admin_usulan.php" class="px-4 py-2 text-lg block">Data Usulan</a></li>
-        <li><a href="index.php" class="px-4 py-2 text-lg block">Ke Page Warga</a></li>
+        <li><a href="../rancang-program/index.php" class="px-4 py-2 text-lg block">Ke Page Warga</a></li>
       </ul>
     </nav>
     <!-- nav end -->
